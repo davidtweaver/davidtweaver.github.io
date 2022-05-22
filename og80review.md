@@ -15,7 +15,7 @@ Pros:
 -	Great typing feel
 -	Interesting design
 -	LEDs are beautiful (although note that they’re an optional extra and that variant costs a little more)
-Cons
+Cons:
 -	Layout takes some getting used to (and I don’t know if it can be adapted to non-standard layouts like Colemak)
 -	Weird dinging echo sound
 Mixed
