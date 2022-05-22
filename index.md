@@ -25,4 +25,6 @@ A utopianist novel about attempting to build a better world through diplomacy an
 A utopianist novel about attempting to build a better world by disposing of your enemies through the medium of overly elaborate boardgames.
 
 
+## Reviews 
+[A review of the Iquinx OG80 board](./og80review.md)
 
