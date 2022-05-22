@@ -18,6 +18,6 @@ Pros:
 Cons:
 -	Layout takes some getting used to (and I don’t know if it can be adapted to non-standard layouts like Colemak)
 -	Weird dinging echo sound
-Mixed
+Mixed:
 -	The weight makes it difficult to recommend as a portable board, but if you’re looking for something that will mostly live on your desk then it’s great.
 Overall, a great board 8/10
